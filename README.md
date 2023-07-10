@@ -3,8 +3,6 @@
 <h2>👨‍💻 Algorithmic Trading:</h2>
 - <b>C# </b>
   - CTrader Bollinger Bands Bot
-- <b>Python</b>
-  - Crypto Bot
 
 <h2>📺 Class Projects</h2>
 
