@@ -6,6 +6,9 @@
 - <b>Python</b>
   - Crypto Bot
 
+<h2>📺 Class Projects</h2>
+
+
 <h2>📺 Miscellaneous Projects</h2>
 
 
