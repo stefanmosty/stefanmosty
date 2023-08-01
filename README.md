@@ -1,8 +1,8 @@
 <h1>Hi, I'm Stefan! 
 
+<h2>👨‍💻 My website:</h2>
+
 <h2>👨‍💻 Algorithmic Trading:</h2>
-- <b>C# </b>
-  - CTrader Bollinger Bands Bot
 
 <h2>📺 Class Projects</h2>
 
