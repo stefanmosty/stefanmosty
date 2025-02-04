@@ -4,7 +4,7 @@
   
 
 ### <div align="center"> 👋 Hey there! I'm Stefan Mostovych
-I'm a data science & quantitative finance enthusiast with a strong background in Python, R, and statistical modeling. I graduated from the University of Florida with a Master of Science in Information Systems & Operations Management, specializing in Data Science.
+# I'm a data science & quantitative finance enthusiast with a strong background in Python, R, and statistical modeling. I graduated from the University of Florida with a Master of Science in Information Systems & Operations Management, specializing in Data Science.
 
 During my studies, I focused extensively on regression analysis, building simple and multiple regression models to extract insights from data. One of my biggest takeaways from the program was learning how to leverage statistics for decision-making—a skill I continue to apply in my work.
 
