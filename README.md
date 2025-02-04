@@ -7,7 +7,7 @@
 🏃‍♂️ Introduction
 - <div align="left">I'm a data science & quantitative finance enthusiast with a strong background in Python, R, and statistical modeling. I graduated from the University of Florida with a Master of Science in Information Systems & Operations Management, specializing in Data Science.
 
-- <div align="left">During my studies, I focused extensively on regression analysis, building simple and multiple regression models to extract insights from data. One of my biggest takeaways from the program was learning how to leverage statistics for decision-making—a skill I continue to apply in my work.>
+- <div align="left">During my studies, I focused extensively on regression analysis, building simple and multiple regression models to extract insights from data. One of my biggest takeaways from the program was learning how to leverage statistics for decision-making—a skill I continue to apply in my work.
 
 🚀 Quant & Algorithmic Trading
 - <div align="left">I was also a leader in AlgoGators, a student-run quantitative trading fund where we developed futures trading algorithms. This experience fueled my passion for algorithmic trading, financial modeling, and data-driven strategies.
