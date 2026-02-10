@@ -1,27 +1,27 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-### <div align="center"> 👋 Hey there! I'm Stefan Mostovych
+# Hey, I'm Stefan Mostovych
 
-🏃‍♂️ Introduction
-- <div align="left">I'm a data science & quantitative finance enthusiast with a strong background in Python, R, and statistical modeling. I graduated from the University of Florida with a Master of Science in Information Systems & Operations Management, specializing in Data Science.
+Full-stack developer and data scientist based in Jacksonville, FL. I build web applications, trading algorithms, and data-driven models.
 
-- <div align="left">During my studies, I focused extensively on regression analysis, building simple and multiple regression models to extract insights from data. One of my biggest takeaways from the program was learning how to leverage statistics for decision-making—a skill I continue to apply in my work.
+I graduated from the **University of Florida** with an MS in Information Systems & Operations Management, specializing in Data Science. During my time at UF, I led **AlgoGators**, a student-run quantitative trading fund where we developed futures trading algorithms.
 
-🚀 Quant & Algorithmic Trading
-- <div align="left">I was also a leader in AlgoGators, a student-run quantitative trading fund where we developed futures trading algorithms. This experience fueled my passion for algorithmic trading, financial modeling, and data-driven strategies.
+## What I Work On
 
-🏊‍♂️🚴‍♂️🏃‍♂️ Ironman Athlete
-- <div align="left">Outside of coding, you’ll probably find me training for my next Ironman! Competing in endurance sports has taught me discipline, resilience, and the power of continuous improvement. Right now, I’m preparing for my second Ironman 70.3.
+**Full-Stack Development** — Building web applications and SaaS products with Next.js, React, TypeScript, and PostgreSQL
 
-🔎 What I’m Working On
-- <div align="left">Exploring machine learning in finance 📈
-- <div align="left">Developing trading strategies & backtesting models 🤖
-- <div align="left">Experimenting with quantitative research & time series analysis ⏳
+**AI & Machine Learning** — Applying ML and AI to solve real-world problems across finance, sports, and business
 
-💡 Always eager to collaborate, learn, and build. Let’s connect and talk data, trading, or endurance sports!
+**Algorithmic Trading** — Developing and backtesting systematic trading strategies for futures and crypto markets
 
-[linkedin]: https://www.linkedin.com/in/stefan-mostovych
+**Sports Betting Models** — Building statistical models for college football and NFL game prediction
 
+**Data Science** — Regression analysis, time series forecasting, and quantitative research using Python and R
 
+## Tech Stack
+
+`Python` `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `R` `Tailwind CSS` `Drizzle ORM` `Stripe`
+
+## Beyond Code
+
+When I'm not coding, I'm training for my next Ironman. Competing in endurance sports has taught me discipline and the power of continuous improvement.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/stefan-mostovych)
