@@ -2,7 +2,7 @@
 
 Full-stack developer and data scientist based in Jacksonville, FL. I build web applications, trading algorithms, and data-driven models.
 
-I graduated from the **University of Florida** with an MS in Information Systems & Operations Management, specializing in Data Science. During my time at UF, I led **AlgoGators**, a student-run quantitative trading fund where we developed futures trading algorithms.
+I graduated from the **University of Florida** with an MS in Information Systems & Operations Management, specializing in Data Science. During my time at UF, I led **AlgoGators**, a student-run quantitative trading fund where we developed futures trading algorithms. I also co-founded **ChartLab**, a trading platform built from the ground up to study and analyze chart patterns.
 
 ## What I Work On
 
