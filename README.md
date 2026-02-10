@@ -18,7 +18,7 @@ I graduated from the **University of Florida** with an MS in Information Systems
 
 ## Tech Stack
 
-`Python` `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `R` `Tailwind CSS` `Drizzle ORM` `Stripe`
+`Python` `JavaScript` `TypeScript` `Java` `R` `MQL5` `React` `Next.js` `Node.js` `PostgreSQL`
 
 ## Beyond Code
 
